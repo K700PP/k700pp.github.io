@@ -29,7 +29,7 @@ body {
 }
 .logo, .header-title {
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: top;
 }
 .logo {
     margin-left: 20px;
@@ -83,7 +83,7 @@ body {
 
 .connect {
     margin-left: 10px;
-    margin-right: 20px;
+    margin-right: 10px;
     margin-bottom: 60px;
 }
 .connect-img, .connect-main, .connect-video, .connect-main span {
@@ -115,8 +115,9 @@ body {
     margin-left: 5px;
     margin-right: 5px;
 }
-.connect-video {
-    width: 200px;
+.connect-video iframe{
+    width: 220px;
+    height: 180px;
 }
 
 /**************************************************/

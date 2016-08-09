@@ -122,7 +122,7 @@ body {
 /**************************************************/
 
 .quick-desc p{
-    width: 700px;
+    max-width: 700px;
     margin: 0 auto;
     margin-bottom: 60px;
 }
@@ -145,7 +145,7 @@ body {
     margin-bottom: 60px;    
 }
 .examples-img-block {
-    width: 940px;
+    max-width: 940px;
     margin: 0 auto;
     margin-top: 30px;
 }
